@@ -6,7 +6,7 @@ The purpose of this project is to analyse the Boston House Price Dataset. The da
 
 **[Link to original paper]**(http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.926.5532&rep=rep1&type=pdf)
 
-This is a Jupyter Notebook that looks at the Boston Housing Dataset. 
+This is a Jupyter Notebook that looks at the Boston Housing Dataset. The dataset was loaded from the [sklearn dataset library]( https://scikit-learn.org/stable/datasets/index.html)
 
 
 It is a submission by student ID G00219132. The submission is for Project 2018 for the Module **Machine Leaning and Statistcs** The module is delivered as part of the [Higher Diploma in Data Analytics](https://www.gmit.ie/computing/higher-diploma-science-computing-data-analytics-ict-skills) in [Galway Mayo IT](https://www.gmit.ie/), Galway. 
