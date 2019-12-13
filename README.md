@@ -13,3 +13,4 @@ It is a submission by student ID G00219132. The submission is for Project 2018 f
 
 The notebook itself is called **Machine Learning - Assessment.ipynb** and to run it you will ideally have [Jupyter](https://jupyter.org/) installed on your machine. You can install this via the [Anaconda](https://www.anaconda.com/) python Distribution. It is in programming language - Python 3.7.0.For some information about Python and it's uses see the wikipedia page, [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) 
 
+The notebook analyses the dataset using descriptive, inferetial and pretictive statistical methods. 
